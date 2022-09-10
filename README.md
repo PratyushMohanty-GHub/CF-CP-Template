@@ -1,1 +1,1 @@
-# CF-CP-Template
+# CP-Template
